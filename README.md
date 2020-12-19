@@ -44,18 +44,18 @@ While this data set is rather small in nature and the initial code solution runs
 
 - **2017 Initial Stock Analsysis Code Runtime**
 
-![2017 Initial Stock Analysis Code Runtime] (/Resources/Initial_Stock_Analysis_2017.png "2017 Initial Stock Analysis Code Runtime" )
+![2017 Initial Stock Analysis Code Runtime](/Resources/Initial_Stock_Analysis_2017.png)
 
 - **2018 Initial Stock Analsysis Code Runtime**
 
-![2018 Initial Stock Analysis Code Runtime] (/Resources/Initial_Stock_Analysis_2018.png "2018 Initial Stock Analysis Code Runtime" )
+![2018 Initial Stock Analysis Code Runtime](/Resources/Initial_Stock_Analysis_2018.png "2018 Initial Stock Analysis Code Runtime")
 
 ### Refactored Stock Analysis Code Runtime
 
 - **2017 Refactored Stock Analsysis Code Runtime**
 
-![2017 Refactored Stock Analysis Code Runtime] (/Resources/VBA_Challenge_2017.png "2017 Refactored Stock Analysis Code Runtime" )
+![2017 Refactored Stock Analysis Code Runtime](/Resources/VBA_Challenge_2017.png "2017 Refactored Stock Analysis Code Runtime")
 
 - **2018 Refactored Stock Analsysis Code Runtime**
 
-![2018 Refactored Stock Analysis Code Runtime] (/Resources/VBA_Challenge_2018.png "2018 Refactored Stock Analysis Code Runtime" )
+![2018 Refactored Stock Analysis Code Runtime](/Resources/VBA_Challenge_2018.png "2018 Refactored Stock Analysis Code Runtime")
