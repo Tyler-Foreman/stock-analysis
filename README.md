@@ -38,7 +38,7 @@ Below are the final summary questions and answers.
 ## How do these pros and cons apply to refactoring the original VBA script?
 -  By moving away from nested loops, the pro of this code is that it is much easier to read for any other developer that would need to read the code or modify it. With this change in code cleanliness there is also the advantage of the original programmer less likely to make any identation/whitespace mistakes in their code solution. 
 
-While this data set is rather small in nature and the initial code solution runs in under 1 second, another pro of the refactored code is that it runs nearly 5x faster, as seen in the images below. If this code solution was applied to a much larger data set that spanned thousands of rows, the initial code solution developed may take a substantial time to run. 
+- While this data set is rather small in nature and the initial code solution runs in under 1 second, another pro of the refactored code is that it runs nearly 5x faster, as seen in the images below. If this code solution was applied to a much larger data set that spanned thousands of rows, the initial code solution developed may take a substantial time to run. 
 
 ### Initial Stock Analysis Code Runtime
 
